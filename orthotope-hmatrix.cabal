@@ -24,7 +24,7 @@ library
   ghc-options:         -Wall
   exposed-modules:     Data.Array.DynamicS.MatMul
                        Data.Array.RankedS.MatMul
-		       Data.Array.ShapedS.MatMul
+                       Data.Array.ShapedS.MatMul
 
   build-depends:       base >= 4.12 && < 4.18
                      , orthotope
