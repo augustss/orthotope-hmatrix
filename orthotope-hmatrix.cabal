@@ -1,12 +1,12 @@
 name:                orthotope-hmatrix
-version:             0.1.0.0
-synopsis:            Some algoritms from hmatrix
+version:             0.1.0.1
+synopsis:            Some algorithms from hmatrix
 license:             Apache
 license-file:        LICENSE
 copyright:           2021 Lennart Augustsson
 category:            array
 maintainer:          lennart@augustsson.net
-description:         Some algoritms from hmatrix
+description:         Some algorithms from hmatrix, such as matrix multiply.
 build-type:          Simple
 cabal-version:       >=1.10
 
